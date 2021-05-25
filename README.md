@@ -27,9 +27,9 @@ Acompanhe esta página em nosso repositório do github, sempre pode aparecer nov
 * No seu fork, preencha o arquivo cv.mkd com seu currículo;
 * Não esqueça de indicar a vaga que você escolheu;
 * Faça um pull request.
-* Caso você tenha alguma restrição em relação a enviar o pull-request publicamente, não tem problema! Pode enc seu CV (ainda especificando a vaga) para [jobs@integer.pt](jobs@integer.pt).
+* Caso você tenha alguma restrição em relação a enviar o pull-request publicamente, não tem problema! Pode encaminhar o seu CV (ainda especificando a vaga) para [jobs@integer.pt](jobs@integer.pt).
 
-Sinta-se a vontade para incluir QUALQUER coisa que você acredite que vá ser bom pra sua imagem perante quem estará recebendo esses dados (github, twitter, facebook, sites online, outros trabalhos, etc).
+Sinta-se a vontade para incluir qualuer coisa que você acredite que vá ser bom pra sua imagem perante quem estará recebendo esses dados (github, twitter, facebook, sites online, outros trabalhos, etc).
 
 Só para lembrar: Estes dados que você está colocando ficarão visíveis para todo mundo, logo se você não quiser colocar dados, como telefone, e-mail, etc, basta aceder ao nosso site e fazer uma candidatura espontânea ou para uma vaga específica.
 
