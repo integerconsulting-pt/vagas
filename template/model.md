@@ -22,21 +22,30 @@ A equipa que temos e o talento de cada um é a base do nosso sucesso. Estas são
 
 ## Descrição da vaga
 
-Exemplo: Projeto em ReactJS, SQLServer, etc.
+Estás à procura de novas oportunidades na área de #IT? 👀
+Temos novidades para ti!
+
+Estamos a reforçar equipas com Drupal Developer com fortes habilidades de comunicação e sentido de responsabilidade e de trabalho em equipa.
 
 ## Local
 
 Exemplo: Remoto ou [ cidade ]
 
-## Requisitos
+## Requisitos Fundamentais
 
 **Obrigatórios:**
-- 3 anos de experiência com React
-- 2 anos de experiência com SqlServer
+➡️ Conhecimentos sólidos em Drupal CMS Conhecimentos sólidos de PHP, HTML, CSS e SQL
+➡️ Conhecimentos Javascript/jQuery
+➡️ Conhecimentos sólidos na API do Drupal CMS
+➡️ +2 anos de experiencia em desenvolvimento Drupal
+➡️ Experiência em construção de módulos para o Drupal CMS
 
-**Desejáveis:**
-- conhecimentos em Vue.js
-- conhecimentos em Azure
+**Valorizamos:**
+👉 Excelente capacidade de comunicação, relacionamento interpessoal e gosto pelo trabalho em equipa
+👉 Resiliente e com capacidade de ultrapassar obstáculos
+👉 Capacidade de encontrar soluções, vontade de fazer mais e melhor, e boa organização
+👉 Conhecimento do gestor de conteúdos Drupal
+👉 Bons conhecimentos de Inglês, falado e escrito
 
 **Diferenciais:**
 - projetos opensource
