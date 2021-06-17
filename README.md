@@ -35,5 +35,9 @@ Só para lembrar: Estes dados que você está colocando ficarão visíveis para 
 
 Estamos procurando pessoas que gostem do que fazem e se sintam à vontade em trabalhar com tecnologia.
 
+Criar Vagas
+=================
+https://github.com/integerconsulting-pt/vagas/blob/main/Criar_vaga.md
+
 Vagas Disponíveis em Issues
 =================
