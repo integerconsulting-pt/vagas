@@ -16,6 +16,7 @@ Ei, algo incrível pode acontecer ao vir para nossa equipa!
 
 [![ScreenShot](https://img.youtube.com/vi/dUmqPJ2kh6g/maxresdefault.jpg)](https://www.youtube.com/watch?v=rsn6vyttDvc)
 
+[![ScreenShot](https://media-exp1.licdn.com/dms/image/sync/C5627AQFwdfTJxjL1Ig/articleshare-shrink_800/0/1624443163276?e=1624532400&v=beta&t=gQ6qfe-TZqfSkzIUx4Q7gRw-v21wvdtBcmzm447KN-k)](https://media-exp1.licdn.com/dms/image/sync/C5627AQFwdfTJxjL1Ig/articleshare-shrink_800/0/1624443163276?e=1624532400&v=beta&t=gQ6qfe-TZqfSkzIUx4Q7gRw-v21wvdtBcmzm447KN-k)
 
 
 Enfim, quero fazer parte e submeter meu CV, como devo proceder?
